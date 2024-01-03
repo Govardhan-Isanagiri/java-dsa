@@ -15,3 +15,15 @@ this repo contain all dsa problems that i solved in sigma and myself
 9. write a java program that prints fever if your body temperature greater than 100 if not print "you don't have fever".
 10. write a java program that takes values 1-7 from user according that print day.
 11. write a java program that takes year from user and checks year is leap year or not
+
+# pattern problems
+
+12. pattern full pyramid
+13. Hallow full Pyramid Patterns
+
+# normal problems
+
+14. write a java program to print sum of n natural numbers.
+15. write a java program to print square \* pattern
+16. write a java program to print reverse of given number
+17. keep entering numbers till user enters multiple of 10
